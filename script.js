@@ -5,7 +5,7 @@ const messages = [
    "But... I promised to fix everything!",
    "Don't you want our future wedding? 💍",
    "I won't leave you again, I promise",
-   "I'll take care of everything, just say yes!"
+   "I'll take care of everything, just say yes!",
    "Please? for our future?",
    "Don't break my heart 💔",
    "Okay, I'm disabling this button now...",
